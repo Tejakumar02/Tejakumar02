@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ...jayaramteja3@gmail.com
 - 😄 Pronouns: ...HE
-  
+- 💼 Portfolio https://tejakumar02.github.io/Portfolio/
 
 
 
