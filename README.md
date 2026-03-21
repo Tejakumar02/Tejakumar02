@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tejakumar
+# 👋 Hi, I’m Teja kumar
 
 ## 🧠 Computer Vision Engineer | AI/ML | Real-Time Systems
 
