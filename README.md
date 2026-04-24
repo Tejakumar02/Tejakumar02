@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Teja Kumar  
-🧠 AI Engineer | Computer Vision + GenAI | Real-Time Systems  
+
+# 🧠 AI Engineer | Computer Vision + GenAI | Real-Time Systems  
 
 🚀 I build end-to-end AI systems for real-world applications — combining Computer Vision and Generative AI.  
 Experienced in deploying real-time vision pipelines and OCR + LLM workflows using locally hosted models, with a strong focus on reliability, performance, and system-level problem solving.
