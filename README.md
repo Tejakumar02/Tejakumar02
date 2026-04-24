@@ -1,98 +1,105 @@
-# 👋 Hi, I’m Teja kumar
+# 👋 Hi, I’m Teja Kumar  
+🧠 AI Engineer | Computer Vision + GenAI | Real-Time Systems  
 
-## 🧠 Computer Vision Engineer | AI/ML | Real-Time Systems
-
-🚀 I build **end-to-end AI systems** for real-world industrial applications — from raw data collection to production deployment.
-⚡ Experienced in **Computer Vision, OCR, and real-time pipelines** with a focus on reliability and performance.
+🚀 I build end-to-end AI systems for real-world applications — combining Computer Vision and Generative AI.  
+Experienced in deploying real-time vision pipelines and OCR + LLM workflows using locally hosted models, with a strong focus on reliability, performance, and system-level problem solving.
 
 ---
 
 ## 🔥 About Me
-
-* 🎯 Specialized in **industrial AI & defect detection systems**
-* ⚙️ Built **YOLO-based real-time inspection pipelines**
-* 📊 Worked with **90K+ annotations & large-scale datasets**
-* 🚀 Focused on solving **system-level problems, not just models**
+🎯 Built industrial AI systems for defect detection and quality control  
+⚙️ Developed YOLO-based real-time inspection pipelines  
+📊 Worked with 90K+ annotations and large-scale datasets  
+🤖 Built OCR + LLM pipelines for document understanding (offline AI systems)  
+🧩 Focused on solving system-level problems, not just running models  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Tools:**
-Python, Git, Flask, Streamlit, OpenPyXL
+**Languages & Tools:** Python, Git, Flask, Streamlit  
 
-**Computer Vision & ML:**
-YOLO, OpenCV, ROI Extraction, Temporal Smoothing, Centroid Tracking
+**Computer Vision:** YOLO, OpenCV, ROI Extraction, Temporal Validation, Centroid Tracking  
 
-**Data & Model Engineering:**
-Dataset Curation, Data Annotation, CVAT, Data Augmentation
+**GenAI / LLMs:** Ollama (Mistral, LLaMA), prompt-based workflows, document processing pipelines  
 
-**Applied AI Systems:**
-OCR (PaddleOCR, Tesseract), Offline LLMs (Ollama), Real-Time Pipelines
+**OCR & NLP:** PaddleOCR, Tesseract  
+
+**Data & ML Engineering:** Dataset Curation, Data Annotation (90K+), CVAT, Data Augmentation  
+
+**Systems & Deployment:** Real-time inference pipelines, API-based deployment, offline AI systems  
 
 ---
 
 ## 🚀 Key Projects
 
 ### 🔹 Industrial Defect Detection System
-
-* Built a **YOLO-based system** to detect missed circlip installations
-* Implemented **spatial & temporal validation logic**
-* Achieved **real-time inference (13+ FPS)**
-* Reduced manual inspection effort by **40%**
+- Built YOLO-based real-time system to detect missed circlip installations  
+- Designed spatial and temporal validation logic to improve detection reliability  
+- Achieved real-time inference (13+ FPS) in production environment  
+- Reduced manual inspection effort by ~40%  
 
 ---
 
-### 🔹 OCR-Based QC Automation System
+### 🔹 OCR + LLM Document Intelligence System
+- Built document processing pipeline combining PaddleOCR with locally deployed LLMs (Ollama)  
+- Implemented structured extraction and contextual summarization workflows  
+- Enabled offline AI processing without external API dependency  
+- Designed pipeline for scalable document understanding tasks  
 
-* Extracted **35+ structured fields** from PDFs
-* Automated QC workflow using **Streamlit dashboard**
-* Reduced verification time by **~90%**
+---
+
+### 🔹 QC Workflow Automation System
+- Built Streamlit-based system to process 50+ PDFs per batch  
+- Extracted 35+ structured fields into formatted Excel reports  
+- Implemented metadata-aware parsing using PyMuPDF  
+- Reduced manual QC verification time by ~90%  
 
 ---
 
 ### 🔹 OCR Engine Benchmarking
-
-* Compared **PaddleOCR vs Tesseract** across multiple conditions
-* Evaluated **accuracy vs latency trade-offs**
-* Enabled optimized deployment for **CPU/GPU environments**
+- Compared PaddleOCR vs Tesseract across multiple conditions  
+- Evaluated accuracy vs latency trade-offs for deployment decisions  
+- Optimized selection based on CPU vs GPU environments  
 
 ---
 
 ## 📈 Experience
 
-**AI Intern – Defect Scanner** *(Jul 2025 – Jan 2026)*
+**AI Engineer Intern – Defect Scanner**  
+📅 Jul 2025 – Jan 2026  
+- Developed real-time defect detection system for industrial assembly lines  
+- Built alert mechanisms (tower lamp + buzzer) for process enforcement  
+- Worked on full pipeline: dataset → model → deployment → monitoring  
 
-* Developed real-time defect detection system for assembly lines
-* Built alert systems (tower lamp + buzzer) for process enforcement
+---
 
-**DL Engineer Intern – FDAI** *(Dec 2024 – Jun 2025)*
-
-* Worked on OCR systems and offline LLM deployments
-* Benchmarked models for performance and reliability
+**DL Engineer Intern – FDAI**  
+📅 Dec 2024 – Jun 2025  
+- Built OCR + LLM pipelines for document processing workflows  
+- Deployed and benchmarked locally hosted LLMs (Ollama: Mistral, LLaMA)  
+- Evaluated model performance for extraction and summarization tasks  
 
 ---
 
 ## 🌐 Portfolio
-
 💼 https://tejakumar02.github.io/Portfolio/
 
 ---
 
 ## 📫 Contact
-
-📧 [jayaramteja3@gmail.com](mailto:jayaramteja3@gmail.com)
+📧 jayaramteja3@gmail.com  
 
 ---
 
 ## 🤝 Let’s Collaborate
-
 I’m open to working on:
 
-* Computer Vision projects
-* Industrial AI systems
-* Real-time ML applications
+- Computer Vision systems  
+- GenAI / LLM applications  
+- Industrial AI solutions  
+- Real-time ML pipelines  
 
 ---
 
-⭐ *Always building, always improving.*
+⭐ Always building, always improving.
