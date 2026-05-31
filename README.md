@@ -113,6 +113,8 @@ Real-time **circlip miss-detection** for industrial assembly lines.
 - Hardware alert integration (tower lamp + buzzer)
 - CVAT annotation (90K+) → training → Docker → monitoring
 
+📁 [View Repo →](https://github.com/Tejakumar02/AL-Tower-Assembly-Inspector.git)
+
 </td>
 <td width="50%" valign="top">
 
@@ -160,7 +162,7 @@ Batch PDF processing that **replaced an entire manual QC workflow**.
 - Metadata-aware parsing with PyMuPDF
 - Streamlit UI for non-technical QC teams
 
-📁 [View Repo →](https://github.com/Tejakumar02/OCR)
+📁 [View Repo →](https://github.com/Tejakumar02/QC-Workflow-AutomationSystem.git)
 
 </td>
 <td width="50%" valign="top">
