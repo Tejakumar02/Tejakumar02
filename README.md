@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tejakumar02.github.io-00FF7F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0a)](https://tejakumar02.github.io/Portfolio/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-tejakumar02.github.io-228B22?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0a)](https://tejakumar02.github.io/Portfolio/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-jayaramteja3-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jayaramteja3@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/teja-kumar-g-s-373b6733a/)
 
