@@ -2,7 +2,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  TEJA KUMAR G S  ·  AI ENGINEER  ·  VISION × INTELLIGENCE   ║
+║  TEJA KUMAR G S  ·  AI ENGINEER  ·  VISION × INTELLIGENCE     ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -177,7 +177,7 @@ Intelligent job discovery and filtering pipeline.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Open to: Computer Vision · GenAI/LLMs · Industrial AI     │
+│  Open to: Computer Vision · GenAI/LLMs · Industrial AI      │
 │           Real-Time ML Pipelines · Offline AI Systems       │
 └─────────────────────────────────────────────────────────────┘
 ```
