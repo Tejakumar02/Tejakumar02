@@ -50,8 +50,8 @@
     "QC_time_saved"   : "~90%"
   },
   "stack" : {
-    "vision"  : ["YOLOv8", "OpenCV", "Centroid Tracking", "ROI Validation"],
-    "genai"   : ["LangChain", "RAG", "Ollama", "Mistral", "LLaMA"],
+    "vision"  : ["YOLO", "OpenCV", "Centroid Tracking", "ROI Validation"],
+    "genai"   : ["LangChain", "RAG", "Ollama", "Mistral", "LLaMA","MCP"],
     "ocr"     : ["PaddleOCR", "Tesseract", "PyMuPDF"],
     "deploy"  : ["Flask", "FastAPI", "Docker", "Air-gapped Systems"]
   }
