@@ -225,58 +225,6 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 </div>
 
-### 🔧 One-Time Stats Setup (5 min) — Makes Stats Always Work
-
-The `github-readme-stats` public server is permanently shut down. Use **GitHub Actions** instead — it generates your stats SVGs directly inside your profile repo, so they always render:
-
-**Step 1:** In your `Tejakumar02/Tejakumar02` repo, create `.github/workflows/stats.yml` with this content:
-
-```yaml
-name: Generate GitHub Stats
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:          # also lets you trigger manually
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate Stats SVGs
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Tejakumar02
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Asia/Kolkata
-          plugin_languages: yes
-          plugin_languages_limit: 6
-          filename: assets/stats.svg
-
-      - name: Generate Langs SVG
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Tejakumar02
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_details: lines, percentage
-          plugin_languages_limit: 8
-          filename: assets/langs.svg
-```
-
-**Step 2:** Go to **GitHub → Settings → Developer Settings → Personal Access Tokens** → generate a token with `read:user` and `repo` scopes → name it `METRICS_TOKEN`.
-
-**Step 3:** Add it to your repo: **Repo → Settings → Secrets → Actions → New secret** → name `METRICS_TOKEN`.
-
-**Step 4:** Run the workflow manually once → it commits `assets/stats.svg` and `assets/langs.svg` to your repo → stats will now always show.
-
----
 
 ## 🤝 Open to Collaborate On
 
