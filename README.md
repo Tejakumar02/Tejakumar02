@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a2e,60:003366,100:00d4ff&height=200&section=header&text=TEJA%20KUMAR%20G%20S&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20GenAI%20%E2%80%A2%20Real-Time%20Systems&descSize=16&descAlignY=62&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a2e,60:003366,100:#00f964&height=200&section=header&text=TEJA%20KUMAR%20G%20S&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20GenAI%20%E2%80%A2%20Real-Time%20Systems&descSize=16&descAlignY=62&animation=twinkling&stroke=#00f964&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=#00f964&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner)](https://readme-typing-svg.demolab.com)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tejakumar02.github.io-00D4FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0a)](https://tejakumar02.github.io/Portfolio/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-tejakumar02.github.io-#00f964?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0a)](https://tejakumar02.github.io/Portfolio/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-jayaramteja3-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jayaramteja3@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/teja-kumar-g-s-373b6733a/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tejakumar02&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Tejakumar02&color=#00f964&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -223,7 +223,7 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tejakumar02&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&dates=C9D1D9)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tejakumar02&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=#00f964&ring=#00f964&fire=FF6B35&currStreakLabel=#00f964&dates=C9D1D9)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -232,11 +232,11 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 <div align="center">
 
-![CV](https://img.shields.io/badge/Computer_Vision_Systems-00D4FF?style=for-the-badge&labelColor=0D1117)&nbsp;
-![GenAI](https://img.shields.io/badge/GenAI_and_LLM_Applications-00D4FF?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Industrial](https://img.shields.io/badge/Industrial_AI_Solutions-00D4FF?style=for-the-badge&labelColor=0D1117)&nbsp;
-![RT](https://img.shields.io/badge/Real_Time_ML_Pipelines-00D4FF?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Offline](https://img.shields.io/badge/Offline_AI_Systems-00D4FF?style=for-the-badge&labelColor=0D1117)
+![CV](https://img.shields.io/badge/Computer_Vision_Systems-#00f964?style=for-the-badge&labelColor=0D1117)&nbsp;
+![GenAI](https://img.shields.io/badge/GenAI_and_LLM_Applications-#00f964?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Industrial](https://img.shields.io/badge/Industrial_AI_Solutions-#00f964?style=for-the-badge&labelColor=0D1117)&nbsp;
+![RT](https://img.shields.io/badge/Real_Time_ML_Pipelines-#00f964?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Offline](https://img.shields.io/badge/Offline_AI_Systems-#00f964?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -250,6 +250,6 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:003366,100:0a0a0a&height=120&section=footer&text=Let%27s%20build%20something%20real%20together.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#00f964,50:003366,100:0a0a0a&height=120&section=footer&text=Let%27s%20build%20something%20real%20together.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
