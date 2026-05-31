@@ -232,11 +232,11 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 <div align="center">
 
-![CV](https://img.shields.io/badge/Computer_Vision_Systems-000000?style=for-the-badge&labelColor=0D1117)&nbsp;
-![GenAI](https://img.shields.io/badge/GenAI_and_LLM_Applications-000000?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Industrial](https://img.shields.io/badge/Industrial_AI_Solutions-000000?style=for-the-badge&labelColor=0D1117)&nbsp;
-![RT](https://img.shields.io/badge/Real_Time_ML_Pipelines-000000?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Offline](https://img.shields.io/badge/Offline_AI_Systems-000000?style=for-the-badge&labelColor=0D1117)
+![CV](https://img.shields.io/badge/Computer_Vision_Systems-3B5998?style=for-the-badge&labelColor=0D1117)&nbsp;
+![GenAI](https://img.shields.io/badge/GenAI_and_LLM_Applications-3B5998?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Industrial](https://img.shields.io/badge/Industrial_AI_Solutions-3B5998?style=for-the-badge&labelColor=0D1117)&nbsp;
+![RT](https://img.shields.io/badge/Real_Time_ML_Pipelines-3B5998?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Offline](https://img.shields.io/badge/Offline_AI_Systems-3B5998?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
