@@ -223,7 +223,7 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tejakumar02&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00FF7F&ring=006400&fire=FF6B35&currStreakLabel=006400&dates=C9D1D9)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tejakumar02&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=228B22&ring=006400&fire=FF6B35&currStreakLabel=006400&dates=C9D1D9)](https://streak-stats.demolab.com)
 
 </div>
 
