@@ -35,7 +35,9 @@
 ---
 
 ## 🧠 Who Am I?
+![Who Am I](./assets/whoami.gif)
 
+<!--
 ```json
 {
   "name"       : "Teja Kumar G S",
@@ -57,6 +59,7 @@
   }
 }
 ```
+-->
 
 > 🚀 I build **end-to-end AI systems** that go into production — not demos.
 > From dataset curation → model training → real-time deployment → monitoring.
