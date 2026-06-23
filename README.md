@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 Who Am I?
+## 🙋🏽‍♂️ Who Am I?
 ![Who Am I](./assets/whoami.gif)
 
 <!--
