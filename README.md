@@ -79,7 +79,8 @@
 
 ---
 
-### 🧠 DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
+### <img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/740bb2ca-1fcc-4069-98ce-6a6f60452208" />
+ DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
 
 > *Offline document intelligence for enterprise environments*
 
