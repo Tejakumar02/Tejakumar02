@@ -79,8 +79,7 @@
 
 ---
 
-### 🤖
- DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
+### 🤖 DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
 
 > *Offline document intelligence for enterprise environments*
 
