@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Gmail-jayaramteja3-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jayaramteja3@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/teja-kumar-g-s-373b6733a/)
 
-[![GreenyAI](https://img.shields.io/badge/GreenyAI-Live_App-00C853?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0a0a0a)](https://greenyai.streamlit.app/)
+[![GreenyAI](https://img.shields.io/badge/GreenyAI-Live_App-00C853?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=006241)](https://greenyai.streamlit.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejakumar02&color=228B22&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
