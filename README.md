@@ -55,7 +55,7 @@
 
 > *Real-time industrial vision system deployed on the factory floor*
 
-- 🎯 **YOLOv8 assembly inspection** on 17K+ images — verifies **drill-tightening** steps and catches **missed circlip / interlock fitments** → **mAP50: 0.92**, **13+ FPS** in live production
+- 🎯 **YOLOv12x assembly inspection** on 17K+ images — verifies **drill-tightening** steps and catches **missed circlip / interlock fitments** → **mAP50: 0.92**, **13+ FPS** in live production
 - 🔩 **Spatial-temporal validation** (centroid tracking + ROI checks) → ~95% process compliance (~60 units/shift)
 - 🚨 **Automated alert system** (tower lamp + buzzer) for real-time enforcement → reduced manual inspection by **~40%**
 - 🐳 **Docker-ready Flask REST API** · Full pipeline: CVAT annotation (90K+) → training → deployment → monitoring
@@ -81,7 +81,7 @@
 
 ### 🏗️ Production-Line Defect Scanner
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square&logoColor=white)
+![YOLOv12x](https://img.shields.io/badge/YOLOv12x-FF6B35?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
@@ -187,7 +187,7 @@ A **live** ChatGPT-style assistant — chat, PDFs, images and web search in one 
 | Domain | Tools |
 |--------|-------|
 | **Languages & Dev** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit) |
-| **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv) `Centroid Tracking` `Temporal Validation` `ROI Extraction` `CVAT` |
+| **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLOv12x-FF6B35?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv) `Centroid Tracking` `Temporal Validation` `ROI Extraction` `CVAT` |
 | **GenAI / LLMs** | ![Ollama](https://img.shields.io/badge/Ollama-4A90D9?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) `Mistral` `LLaMA` `Groq` `Gemini Vision` `Tavily` `RAG` `Prompt Engineering` |
 | **OCR / NLP** | ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-003087?style=flat) ![Tesseract](https://img.shields.io/badge/Tesseract-555?style=flat) `Embeddings` `Entity Recognition` `PyMuPDF` |
 | **Vector DBs & Data** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) `Dataset Curation` `Data Augmentation` `90K+ Annotations` |
