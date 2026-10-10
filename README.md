@@ -6,13 +6,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00FF7F&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner)](https://readme-typing-svg.demolab.com)
+<a href="https://teja-kumar.netlify.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=00FF7F" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=1A7F37" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=1A7F37" />
+  </picture>
+</a>
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tejakumar02.github.io-228B22?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0a)](https://tejakumar02.github.io/Portfolio/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-teja--kumar.netlify.app-228B22?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a)](https://teja-kumar.netlify.app/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-jayaramteja3-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jayaramteja3@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/teja-kumar-g-s-373b6733a/)
 
@@ -80,7 +86,7 @@
 
 ---
 
-### 𖡎 DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
+### 📄 DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
 
 > *Offline document intelligence for enterprise environments*
 
@@ -215,22 +221,26 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Stats not rendering?** The public `github-readme-stats.vercel.app` instance is shut down. Follow the **setup steps below** to make stats work reliably using GitHub Actions — takes ~5 minutes.
-
 <div align="center">
 
-![GitHub Stats](./assets/stats.svg)
-&nbsp;&nbsp;
-![Top Languages](./assets/langs.svg)
+<img src="./assets/stats.svg" alt="GitHub Stats" width="49%" />
+<img src="./assets/langs.svg" alt="Top Languages" width="49%" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tejakumar02&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=228B22&ring=006400&fire=FF6B35&currStreakLabel=006400&dates=C9D1D9)](https://streak-stats.demolab.com)
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tejakumar02" alt="GitHub Streak" /></a> -->
+<a href="https://github.com/Tejakumar02">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&theme=tokyonight-duo&background=0D1117&stroke=228B22&ring=006400&fire=FF6B35&currStreakLabel=00FF7F&dates=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=E36209&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=57606A&dates=57606A" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=E36209&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=57606A&dates=57606A" />
+  </picture>
+</a>
+
 </div>
 
+---
 
 ## 🤝 Open to Collaborate On
 
