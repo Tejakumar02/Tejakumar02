@@ -8,9 +8,9 @@
 
 <a href="https://teja-kumar.netlify.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=00FF7F" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=1A7F37" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+0.92+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=1A7F37" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+92.3%25+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=00FF7F" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+92.3%25+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=1A7F37" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+AI+that+sees+%7C+thinks+%7C+acts+in+production;mAP50%3A+92.3%25+%7C+13%2B+FPS+%7C+90K%2B+Annotations;YOLO+%2B+RAG+%2B+LLMs+%2B+Real-Time+Pipelines;System-level+thinker+not+just+a+model+runner&color=1A7F37" />
   </picture>
 </a>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-| 🗂️ 90K+ Annotations | ⚡ 13+ FPS Inference | 🎯 mAP50: 0.92 | ⏱️ ~90% QC Time Saved |
+| 🗂️ 90K+ Annotations | ⚡ 13+ FPS Inference | 🎯 mAP50: 92.3% | ⏱️ ~90% QC Time Saved |
 |:-------------------:|:--------------------:|:--------------:|:---------------------:|
 | Large-scale dataset curation | Real-time production pipeline | Industrial defect detection | Automated document QC |
 
@@ -55,7 +55,7 @@
 
 > *Real-time industrial vision system deployed on the factory floor*
 
-- 🎯 **YOLOv12x assembly inspection** on 17K+ images — verifies **drill-tightening** steps and catches **missed circlip / interlock fitments** → **mAP50: 0.92**, **13+ FPS** in live production
+- 🎯 **YOLOv12x assembly inspection** on 17K+ images — verifies **drill-tightening** steps and catches **missed circlip / interlock fitments** → **mAP50: 92.3%**, **13+ FPS** in live production
 - 🔩 **Spatial-temporal validation** (centroid tracking + ROI checks) → ~95% process compliance (~60 units/shift)
 - 🚨 **Automated alert system** (tower lamp + buzzer) for real-time enforcement → reduced manual inspection by **~40%**
 - 🐳 **Docker-ready Flask REST API** · Full pipeline: CVAT annotation (90K+) → training → deployment → monitoring
@@ -90,7 +90,7 @@ Real-time assembly-line inspection that checks **drill-tightening compliance** a
 
 | Metric | Value |
 |--------|-------|
-| Model mAP50 | **0.92** |
+| Model mAP50 | **92.3%** |
 | Inference Speed | **13+ FPS** |
 | Process Compliance | **~95%** |
 | Manual Effort Saved | **~40%** |
