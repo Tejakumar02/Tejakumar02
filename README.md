@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a2e,60:003366,100:228B22&height=200&section=header&text=TEJA%20KUMAR%20G%20S&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20GenAI%20%E2%80%A2%20Real-Time%20Systems&descSize=16&descAlignY=62&animation=twinkling&stroke=000080&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,30:001a2e,60:003366,100:228B22&height=200&section=header&text=TEJA%20KUMAR%20G%20S&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20GenAI%20%E2%80%A2%20Real-Time%20Systems&descSize=16&descAlignY=62&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -263,6 +263,6 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:003366,100:0a0a0a&height=120&section=footer&text=Let%27s%20build%20something%20real%20together.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,40:003366,100:228B22&height=120&section=footer&text=Let%27s%20build%20something%20real%20together.&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 </div>
