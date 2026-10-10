@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/teja-kumar-g-s-373b6733a/)
 
 [![GreenyAI](https://img.shields.io/badge/GreenyAI-Live_App-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=006241)](https://greenyai.streamlit.app/)
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=Tejakumar02&label=PROFILE%20VIEWS&labelColor=%230a0a0a&countColor=%23228B22)
+
 </div>
 
 ---
@@ -43,29 +43,6 @@
 ## 🙋🏽‍♂️ Who Am I?
 ![Who Am I](./assets/whoami.gif)
 
-<!--
-```json
-{
-  "name"       : "Teja Kumar G S",
-  "role"       : "AI Engineer",
-  "location"   : "Chennai, India",
-  "focus"      : ["Computer Vision", "GenAI / LLMs", "Real-Time ML Systems"],
-  "philosophy" : "I don't just run models — I build systems that run in the real world.",
-  "impact" : {
-    "annotations"     : "90K+",
-    "inference_FPS"   : "13+",
-    "defect_mAP50"    : 0.92,
-    "QC_time_saved"   : "~90%"
-  },
-  "stack" : {
-    "vision"  : ["YOLO", "OpenCV", "Centroid Tracking", "ROI Validation"],
-    "genai"   : ["LangChain", "RAG", "Ollama", "Mistral", "LLaMA","MCP"],
-    "ocr"     : ["PaddleOCR", "Tesseract", "PyMuPDF"],
-    "deploy"  : ["Flask", "FastAPI", "Docker", "Air-gapped Systems"]
-  }
-}
-```
--->
 
 > 🚀 I build **end-to-end AI systems** that go into production — not demos.
 > From dataset curation → model training → real-time deployment → monitoring.
@@ -74,18 +51,18 @@
 
 ## 💼 Experience
 
-### 🏭 AI Engineer Intern — Defect Scanner &nbsp;&nbsp; `Jul 2025 – Jan 2026`
+### 🏭 AI Engineer Intern @ Defect Scanner &nbsp;&nbsp; `Jul 2025 – Jan 2026`
 
 > *Real-time industrial vision system deployed on the factory floor*
 
-- 🎯 **YOLOv8 defect detection** on 17K+ images → **mAP50: 0.92**, **13+ FPS** in live production
+- 🎯 **YOLOv8 assembly inspection** on 17K+ images — verifies **drill-tightening** steps and catches **missed circlip / interlock fitments** → **mAP50: 0.92**, **13+ FPS** in live production
 - 🔩 **Spatial-temporal validation** (centroid tracking + ROI checks) → ~95% process compliance (~60 units/shift)
 - 🚨 **Automated alert system** (tower lamp + buzzer) for real-time enforcement → reduced manual inspection by **~40%**
 - 🐳 **Docker-ready Flask REST API** · Full pipeline: CVAT annotation (90K+) → training → deployment → monitoring
 
 ---
 
-### 📄 DL Engineer Intern — FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
+### 📄 DL Engineer Intern @ FDAI &nbsp;&nbsp; `Dec 2024 – Jun 2025`
 
 > *Offline document intelligence for enterprise environments*
 
@@ -102,14 +79,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Industrial Defect Detection System
+### 🏗️ Production-Line Defect Scanner
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
-Real-time **circlip miss-detection** for industrial assembly lines.
+Real-time assembly-line inspection that checks **drill-tightening compliance** and detects **missed circlip / interlock fitments**.
 
 | Metric | Value |
 |--------|-------|
@@ -176,24 +153,26 @@ Batch PDF processing that **replaced an entire manual QC workflow**.
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Automated Job Search System
+### 🍃 GreenyAI — Multimodal AI Assistant
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Automation](https://img.shields.io/badge/Automation-Scraping-orange?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Intelligent job discovery and filtering pipeline — end-to-end.
+A **live** ChatGPT-style assistant — chat, PDFs, images and web search in one app.
 
 | Feature | Detail |
 |---------|--------|
-| Sources | Multi-platform scraping |
-| Filtering | Role-based keyword ranking |
-| Output | Structured tracking dashboard |
-| Dedup | Cross-source deduplication |
+| LLM | **Groq** Llama 3.1 / 3.3, token streaming |
+| Documents | **PDF RAG** (all-MiniLM-L6-v2 embeddings) |
+| Vision | **Gemini** image understanding |
+| Web | **Tavily** live search with cited sources |
 
-- Automated search-to-ranked-shortlist pipeline
-- Configurable role and keyword filters
+- Multi-chat history persisted in **Supabase**
+- Password-gated admin panel to tune prompt & sampling
 
-📁 [View Repo →](https://github.com/Tejakumar02/Automated-Job-Search-System)
+🌐 [Live App →](https://greenyai.streamlit.app/) &nbsp;·&nbsp; 📁 [View Repo →](https://github.com/Tejakumar02/GreenyAI)
 
 </td>
 </tr>
@@ -209,9 +188,9 @@ Intelligent job discovery and filtering pipeline — end-to-end.
 |--------|-------|
 | **Languages & Dev** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit) |
 | **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv) `Centroid Tracking` `Temporal Validation` `ROI Extraction` `CVAT` |
-| **GenAI / LLMs** | ![Ollama](https://img.shields.io/badge/Ollama-4A90D9?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) `Mistral` `LLaMA` `RAG` `Prompt Engineering` |
+| **GenAI / LLMs** | ![Ollama](https://img.shields.io/badge/Ollama-4A90D9?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) `Mistral` `LLaMA` `Groq` `Gemini Vision` `Tavily` `RAG` `Prompt Engineering` |
 | **OCR / NLP** | ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-003087?style=flat) ![Tesseract](https://img.shields.io/badge/Tesseract-555?style=flat) `Embeddings` `Entity Recognition` `PyMuPDF` |
-| **Vector DBs & Data** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat) `Dataset Curation` `Data Augmentation` `90K+ Annotations` |
+| **Vector DBs & Data** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) `Dataset Curation` `Data Augmentation` `90K+ Annotations` |
 | **Deployment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) `Real-Time Inference` `REST APIs` `Air-Gapped Systems` `On-Premises` |
 
 </div>
