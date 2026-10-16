@@ -210,9 +210,9 @@ A **live** ChatGPT-style assistant — chat, PDFs, images and web search in one 
 
 <a href="https://github.com/Tejakumar02">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&theme=tokyonight-duo&background=0D1117&stroke=228B22&ring=006400&fire=FF6B35&currStreakLabel=00FF7F&dates=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=E36209&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=57606A&dates=57606A" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=E36209&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=57606A&dates=57606A" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&v=2&theme=tokyonight-duo&background=0D1117&stroke=228B22&ring=006400&fire=FF6B35&currStreakLabel=00FF7F&dates=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&v=2&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=E36209&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=57606A&dates=57606A" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Tejakumar02&timezone=Asia/Kolkata&hide_border=true&v=2&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=E36209&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=57606A&dates=57606A" />
   </picture>
 </a>
 
