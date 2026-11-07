@@ -51,6 +51,17 @@
 
 ## 💼 Experience
 
+### 🚗 Python Intern @ Rapid Acceleration Partners &nbsp;&nbsp; `Aug 2026 – Present`
+
+> *Production automation bots for US car dealerships*
+
+- 🤖 **60+ live automation bots** in production — Python + Selenium on Linux servers (supervisor)
+- 🔌 **New dealer onboarding** — validate CRM lead extraction and vehicle pricing on **vAuto / VinCue**, add dealer-specific pricing logic
+- 🩺 **Daily production health checks** — triage price-fetch failures from screenshots + logs, find the root cause, ship fixes via **Git PRs**
+- 🧠 **AI-assisted development** with Claude across a large legacy codebase
+
+---
+
 ### 🏭 AI Engineer Intern @ Defect Scanner &nbsp;&nbsp; `Jul 2025 – Jan 2026`
 
 > *Real-time industrial vision system deployed on the factory floor*
